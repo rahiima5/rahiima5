@@ -38,13 +38,6 @@ I am a 2024 Computer Science graduate with a passion for building secure, scalab
 - **STEM & Robotics Instructor:** I’ve facilitated hands-on Robotics and Arduino-based educational projects at **Qatar Foundation**, simplifying complex programming logic for diverse international audiences.
 - **Infrastructure Background:** Experienced in designing network infrastructures for banking environments, focusing on high-level security and reliability standards.
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rahmaelnaqeb-ctrl&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaelnaqeb-ctrl&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
 
 ---
 
