@@ -24,6 +24,8 @@ I am a 2024 Computer Science graduate with a passion for building secure, scalab
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rahmaelnaqeb-ctrl=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### 🌟 Featured Projects
 
