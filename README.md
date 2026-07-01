@@ -2,11 +2,6 @@
 
 ### 🚀 Software Engineer | Backend Developer (.NET & Node.js) | IT Graduate
 
-Passionate Software Engineer & Information Technology Graduate, specializing in Backend Development with a strong multi-stack foundation in both .NET and Node.js. 
-
-Over my technical journey, I have built web applications, managed databases, and engineered clean backend logic. My expertise spans from structured enterprise solutions with C# and ASP.NET to dynamic web services using Node.js, Express, and MongoDB. Driven by curiosity, I have also expanded my skills into Python, Data Science, and AI to bridge the gap between robust software architecture and data-driven insights.
-
-As a high-performing tech professional, I have been recognized by top-tier institutions, successfully graduating from the NTI Full-Stack Web Development program and the ITIDA Gigs Freelance Training. Beyond core development, I enjoy sharing knowledge, having worked as a Freelance Robotics Coach in Qatar, mentoring students in coding logic and STEM.
 
 💻 Technical Toolbox:
 • Backend Tech: .NET (C#, OOP, ASP.NET), Node.js (Express.js)
